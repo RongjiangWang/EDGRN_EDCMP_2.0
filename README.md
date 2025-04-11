@@ -19,6 +19,7 @@ to get the excutable code edgrn.
 After start the executable code, the program ask for an input file in the ASCII format. An example input file is provided under folder "InputFile". You may change the input data included in this file for your own applications.
 
 References
+
 Okada, Y., Internal deformation due to shear and tensile faults in a half-space, Bull. Seis. Soc. Am., 82, 1018-1040, 1992.
 
 Wang, R., A simple orthonormalization method for the stable and efficient computation of Green's functions, Bull. Seism. Soc. Am., 89, 733-741, 1999.
